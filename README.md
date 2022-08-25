@@ -6,18 +6,18 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/sacerd-OS/gedit/stargazers"><img src="https://img.shields.io/github/stars/sacerd-OS/gedit?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/sacerd-OS/gedit/issues"><img src="https://img.shields.io/github/issues/sacerd-OS/gedit?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/sacerd-OS/gedit/contributors"><img src="https://img.shields.io/github/contributors/sacerd-OS/gedit?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/gedit/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/gedit?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/gedit/issues"><img src="https://img.shields.io/github/issues/catppuccin/gedit?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/gedit/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/gedit?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/sacerd-OS/gedit/master/assets/res.png"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/gedit/master/assets/res.png"/>
 </p>
 
 ## Usage
 
-1. Clone this repository locally: ```git clone https://github.com/sacerd-OS/gedit.git```
+1. Clone this repository locally: ```git clone https://github.com/catppuccin/gedit.git```
 2. Open gedit's preferences menu and navigate to the **Fonts and Colors** menu. Hit the plus button at the bottom.
 3. Navigate to the themes folder of the cloned repository.
 4. Choose the flavor of your choice.
@@ -29,7 +29,7 @@ Alternatively, you may install this by dropping the .xml files from ```/themes``
 ## 💝 Thanks to
 
 - Paolo Borelli, whose Oblivion theme I referenced when making this port.
-- [sacerdOS](https://github.com/sacerd-OS)
+- [OS](https://github.com/sacerd-OS)
 
 &nbsp;
 
