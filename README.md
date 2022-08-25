@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/sacerd-OS/gedit/assets/res.png"/>
+	<img src="https://raw.githubusercontent.com/sacerd-OS/gedit/master/assets/res.png"/>
 </p>
 
 ## Usage
