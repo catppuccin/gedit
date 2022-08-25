@@ -6,13 +6,13 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/sacerd-OS/gedit/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/gedit?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/sacerd-OS/gedit/issues"><img src="https://img.shields.io/github/issues/catppuccin/gedit?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/sacerd-OS/gedit/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/gedit?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/sacerd-OS/gedit/stargazers"><img src="https://img.shields.io/github/stars/sacerd-OS/gedit?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/sacerd-OS/gedit/issues"><img src="https://img.shields.io/github/issues/sacerd-OS/gedit?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/sacerd-OS/gedit/contributors"><img src="https://img.shields.io/github/contributors/sacerd-OS/gedit?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/sacerdos/gedit/assets/res.png"/>
+	<img src="https://raw.githubusercontent.com/sacerd-OS/gedit/assets/res.png"/>
 </p>
 
 ## Usage
