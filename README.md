@@ -29,7 +29,7 @@ Alternatively, you may install this by dropping the .xml files from ```/themes``
 ## 💝 Thanks to
 
 - Paolo Borelli, whose Oblivion theme I referenced when making this port.
-- [OS](https://github.com/sacerd-OS)
+- [sacerdOS](https://github.com/sacerd-OS)
 
 &nbsp;
 
