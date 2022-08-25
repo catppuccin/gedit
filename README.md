@@ -24,7 +24,7 @@
 5. Enjoy!
 
 ### Usage Notes
-Alternate installation can be performed by dropping the .xml files from ```/themes``` into Gedit's styles directory. The location of Gedit's styles directory varies from system to system. A full list of possible locations can be found [here](https://wiki.gnome.org/Projects/GtkSourceView/StyleSchemes).
+Alternatively, you may install this by dropping the .xml files from ```/themes``` into Gedit's styles directory. The location of Gedit's styles directory varies from system to system. A full list of possible locations can be found [here](https://wiki.gnome.org/Projects/GtkSourceView/StyleSchemes).
 
 ## 💝 Thanks to
 
