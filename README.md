@@ -18,13 +18,17 @@
 ## Usage
 
 1. Clone this repository locally: ```git clone https://github.com/catppuccin/gedit.git```
-2. Open gedit's preferences menu and navigate to the **Fonts and Colors** menu. Hit the plus button at the bottom.
-3. Navigate to the themes folder of the cloned repository.
+2. Run ``install.sh``
+3. Open Gedit's preferences menu and navigate to the **Fonts and Colors** menu. 
 4. Choose the flavor of your choice.
 5. Enjoy!
 
-### Usage Notes
-Alternatively, you may install this by dropping the .xml files from ```/themes``` into Gedit's styles directory (``~/.local/share/gedit/styles``).
+### Alternative installation
+1. Clone this repository locally: ```git clone https://github.com/catppuccin/gedit.git```
+2. Open Gedit's preferences menu and navigate to the **Fonts and Colors** menu.
+3.  Hit the '+' button.
+4. Choose the flavor(s) of your choice.
+5. Enjoy!
 
 ## 💝 Thanks to
 
