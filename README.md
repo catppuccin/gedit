@@ -26,7 +26,7 @@
 ### Alternative installation
 1. Clone this repository locally: ```git clone https://github.com/catppuccin/gedit.git```
 2. Open Gedit's preferences menu and navigate to the **Fonts and Colors** menu.
-3.  Hit the '+' button.
+3. Hit the '+' button.
 4. Choose the flavor(s) of your choice.
 5. Enjoy!
 
