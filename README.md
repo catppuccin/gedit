@@ -24,7 +24,7 @@
 5. Enjoy!
 
 ### Usage Notes
-Alternatively, you may install this by dropping the .xml files from ```/themes``` into Gedit's styles directory (``~/.local/share/gtksourceview-*/styles``).
+Alternatively, you may install this by dropping the .xml files from ```/themes``` into Gedit's styles directory (``~/.local/share/gedit/styles``).
 
 ## 💝 Thanks to
 
