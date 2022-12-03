@@ -18,10 +18,11 @@
 ## Usage
 
 1. Clone this repository locally: ```git clone https://github.com/catppuccin/gedit.git```
-2. Run ``install.sh``
-3. Open Gedit's preferences menu and navigate to the **Fonts and Colors** menu. 
-4. Choose the flavor of your choice.
-5. Enjoy!
+2. cd into the cloned directory ``cd gedit``
+3. Run ``install.sh``
+4. Open Gedit's preferences menu and navigate to the **Fonts and Colors** menu. 
+5. Choose the flavor of your choice.
+6. Enjoy!
 
 ### Alternative installation
 1. Clone this repository locally: ```git clone https://github.com/catppuccin/gedit.git```
