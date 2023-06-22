@@ -87,7 +87,7 @@ Catppuccin Gedit theme based on Oblivion theme and Cappuccin for Visual Studio C
   <style name="def:link-symbol"             foreground="macchiato_blue" bold="true"/>
   <style name="def:link-destination"        foreground="macchiato_blue" italic="true" underline="single"/>
   <style name="def:heading"                 foreground="macchiato_teal" bold="true"/>
-  <style name="def:thematic-break"          foreground="macciato_green" bold="true"/>
+  <style name="def:thematic-break"          foreground="macchiato_green" bold="true"/>
   <style name="def:preformatted-section"    foreground="macchiato_green"/>
   <style name="def:list-marker"             foreground="macchiato_teal" bold="true"/>
 
