@@ -1,0 +1,84 @@
+---
+whiskers:
+  version: "2.3.0"
+  matrix:
+   - flavor
+  filename: "themes/catppuccin-{{ flavor.identifier }}.xml"
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Catppuccin Gedit theme based on Oblivion theme and Cappuccin for Visual Studio Code.
+-->
+
+<style-scheme id="catppuccin_{{ flavor.identifier }}" _name="Catppuccin {{ flavor.name }}" version="1.0">
+
+  <author>sacerdos</author>
+  <_description>Soothing pastel theme for Gedit</_description>
+
+  <!-- Catppuccin Palette -->
+{%- for identifier, color in flavor.colors %}
+  <color name="{{ flavor.identifier }}_{{ identifier }}" value="#{{ color.hex }}"/>
+{%- endfor %}
+
+  <!-- Global Settings -->
+  <style name="text"                        foreground="{{ flavor.identifier }}_text" background = "{{ flavor.identifier }}_base"/>
+  <style name="selection"                   foreground="{{ flavor.identifier }}_text" background="{{ flavor.identifier }}_surface2"/>
+  <style name="cursor"                      foreground="{{ flavor.identifier }}_rosewater"/>
+  <style name="secondary-cursor"            foreground="{{ flavor.identifier }}_rosewater"/>
+  <style name="current-line"                background="{{ flavor.identifier }}_surface0"/>
+  <style name="line-numbers"                foreground="{{ flavor.identifier }}_text" background="{{ flavor.identifier }}_crust"/>
+  <style name="draw-spaces"                 foreground="{{ flavor.identifier }}_text"/>
+  <style name="background-pattern"          background="{{ flavor.identifier }}_base"/>
+
+  <!-- Bracket Matching -->
+  <style name="bracket-match"               foreground="{{ flavor.identifier }}_mauve"/>
+  <style name="bracket-mismatch"            foreground="{{ flavor.identifier }}_text" background="{{ flavor.identifier }}_peach"/>
+
+  <!-- Right Margin -->
+  <style name="right-margin"                foreground="{{ flavor.identifier }}_text" background="{{ flavor.identifier }}_crust"/>
+
+  <!-- Search Matching -->
+  <style name="search-match"                foreground="{{ flavor.identifier }}_text" background="{{ flavor.identifier }}_blue"/>
+
+  <!-- Comments -->
+  <style name="def:comment"                 foreground="{{ flavor.identifier }}_overlay0"/>
+  <style name="def:shebang"                 foreground="{{ flavor.identifier }}_overlay0" bold="true"/>
+  <style name="def:doc-comment-element"     italic="true"/>
+
+  <!-- Constants -->
+  <style name="def:constant"                foreground="{{ flavor.identifier }}_green"/>
+  <style name="def:string"                  foreground="{{ flavor.identifier }}_green"/>
+  <style name="def:special-char"            foreground="{{ flavor.identifier }}_lavender"/>
+  <style name="def:special-constant"        foreground="{{ flavor.identifier }}_lavender"/>
+  <style name="def:floating-point"          foreground="{{ flavor.identifier }}_lavender"/>
+
+  <!-- Identifiers -->
+  <style name="def:identifier"              foreground="{{ flavor.identifier }}_blue"/>
+
+  <!-- Statements -->
+  <style name="def:statement"               foreground="{{ flavor.identifier }}_sapphire" bold="true"/>
+
+  <!-- Types -->
+  <style name="def:type"                    foreground="{{ flavor.identifier }}_maroon" bold="true"/>
+
+  <!-- Markup -->
+  <style name="def:emphasis"                italic="true"/>
+  <style name="def:strong-emphasis"         foreground="{{ flavor.identifier }}_yellow" bold="true"/>
+  <style name="def:inline-code"             foreground="{{ flavor.identifier }}_green"/>
+  <style name="def:insertion"               underline="single"/>
+  <style name="def:deletion"                strikethrough="true"/>
+  <style name="def:link-text"               foreground="{{ flavor.identifier }}_rosewater"/>
+  <style name="def:link-symbol"             foreground="{{ flavor.identifier }}_blue" bold="true"/>
+  <style name="def:link-destination"        foreground="{{ flavor.identifier }}_blue" italic="true" underline="single"/>
+  <style name="def:heading"                 foreground="{{ flavor.identifier }}_teal" bold="true"/>
+  <style name="def:thematic-break"          foreground="{{ flavor.identifier }}_green" bold="true"/>
+  <style name="def:preformatted-section"    foreground="{{ flavor.identifier }}_green"/>
+  <style name="def:list-marker"             foreground="{{ flavor.identifier }}_teal" bold="true"/>
+
+  <!-- Others -->
+  <style name="def:preprocessor"            foreground="{{ flavor.identifier }}_teal"/>
+  <style name="def:error"                   foreground="{{ flavor.identifier }}_maroon" bold="true"/>
+  <style name="def:warning"                 foreground="{{ flavor.identifier }}_peach"/>
+  <style name="def:note"                    foreground="{{ flavor.identifier }}_blue" bold="true"/>
+  <style name="def:net-address"             italic="true" underline="single"/>
+</style-scheme>

@@ -3,38 +3,38 @@
 Catppuccin Gedit theme based on Oblivion theme and Cappuccin for Visual Studio Code.
 -->
 
-<style-scheme id="catppuccin_latte" _name="Catppuccin latte" version="1.0">
+<style-scheme id="catppuccin_latte" _name="Catppuccin Latte" version="1.0">
 
   <author>sacerdos</author>
   <_description>Soothing pastel theme for Gedit</_description>
 
   <!-- Catppuccin Palette -->
   <color name="latte_rosewater" value="#dc8a78"/>
-  <color name="latte_flamingo"  value="#dd7878"/>
-  <color name="latte_pink"      value="#ea76cb"/>
-  <color name="latte_mauve"     value="#8839ef"/>
-  <color name="latte_red"       value="#d20f39"/>
-  <color name="latte_maroon"    value="#e64553"/>
-  <color name="latte_peach"     value="#fe640b"/>
-  <color name="latte_yellow"    value="#df8e1d"/>
-  <color name="latte_green"     value="#40a02b"/>
-  <color name="latte_teal"      value="#179299"/>
-  <color name="latte_sky"       value="#04a5e5"/>
-  <color name="latte_sapphire"  value="#209fb5"/>
-  <color name="latte_blue"      value="#1e66f5"/>
-  <color name="latte_lavender"  value="#7287fd"/>
-  <color name="latte_text"      value="#4c4f69"/>
-  <color name="latte_subtext1"  value="#5c5f77"/>
-  <color name="latte_subtext0"  value="#6c6f85"/>
-  <color name="latte_overlay2"  value="#7c7f93"/>
-  <color name="latte_overlay1"  value="#8c8fa1"/>
-  <color name="latte_overlay0"  value="#9ca0b0"/>
-  <color name="latte_surface2"  value="#acb0be"/>
-  <color name="latte_surface1"  value="#bcc0cc"/>
-  <color name="latte_surface0"  value="#ccd0da"/>
-  <color name="latte_base"      value="#eff1f5"/>
-  <color name="latte_mantle"    value="#e6e9ef"/>
-  <color name="latte_crust"     value="#dce0e8"/>
+  <color name="latte_flamingo" value="#dd7878"/>
+  <color name="latte_pink" value="#ea76cb"/>
+  <color name="latte_mauve" value="#8839ef"/>
+  <color name="latte_red" value="#d20f39"/>
+  <color name="latte_maroon" value="#e64553"/>
+  <color name="latte_peach" value="#fe640b"/>
+  <color name="latte_yellow" value="#df8e1d"/>
+  <color name="latte_green" value="#40a02b"/>
+  <color name="latte_teal" value="#179299"/>
+  <color name="latte_sky" value="#04a5e5"/>
+  <color name="latte_sapphire" value="#209fb5"/>
+  <color name="latte_blue" value="#1e66f5"/>
+  <color name="latte_lavender" value="#7287fd"/>
+  <color name="latte_text" value="#4c4f69"/>
+  <color name="latte_subtext1" value="#5c5f77"/>
+  <color name="latte_subtext0" value="#6c6f85"/>
+  <color name="latte_overlay2" value="#7c7f93"/>
+  <color name="latte_overlay1" value="#8c8fa1"/>
+  <color name="latte_overlay0" value="#9ca0b0"/>
+  <color name="latte_surface2" value="#acb0be"/>
+  <color name="latte_surface1" value="#bcc0cc"/>
+  <color name="latte_surface0" value="#ccd0da"/>
+  <color name="latte_base" value="#eff1f5"/>
+  <color name="latte_mantle" value="#e6e9ef"/>
+  <color name="latte_crust" value="#dce0e8"/>
 
   <!-- Global Settings -->
   <style name="text"                        foreground="latte_text" background = "latte_base"/>

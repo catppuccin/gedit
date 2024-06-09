@@ -3,38 +3,38 @@
 Catppuccin Gedit theme based on Oblivion theme and Cappuccin for Visual Studio Code.
 -->
 
-<style-scheme id="catppuccin_frappe" _name="Catppuccin frappe" version="1.0">
+<style-scheme id="catppuccin_frappe" _name="Catppuccin Frappé" version="1.0">
 
   <author>sacerdos</author>
   <_description>Soothing pastel theme for Gedit</_description>
 
   <!-- Catppuccin Palette -->
   <color name="frappe_rosewater" value="#f2d5cf"/>
-  <color name="frappe_flamingo"  value="#eebebe"/>
-  <color name="frappe_pink"      value="#f4b8e4"/>
-  <color name="frappe_mauve"     value="#ca9ee6"/>
-  <color name="frappe_red"       value="#e78284"/>
-  <color name="frappe_maroon"    value="#ea999c"/>
-  <color name="frappe_peach"     value="#ef9f76"/>
-  <color name="frappe_yellow"    value="#e5c890"/>
-  <color name="frappe_green"     value="#a6d189"/>
-  <color name="frappe_teal"      value="#81c8be"/>
-  <color name="frappe_sky"       value="#99d1db"/>
-  <color name="frappe_sapphire"  value="#85c1dc"/>
-  <color name="frappe_blue"      value="#8caaee"/>
-  <color name="frappe_lavender"  value="#babbf1"/>
-  <color name="frappe_text"      value="#c6d0f5"/>
-  <color name="frappe_subtext1"  value="#b5bfe2"/>
-  <color name="frappe_subtext0"  value="#a5adce"/>
-  <color name="frappe_overlay2"  value="#949cbb"/>
-  <color name="frappe_overlay1"  value="#838ba7"/>
-  <color name="frappe_overlay0"  value="#737994"/>
-  <color name="frappe_surface2"  value="#626880"/>
-  <color name="frappe_surface1"  value="#51576d"/>
-  <color name="frappe_surface0"  value="#51576d"/>
-  <color name="frappe_base"      value="#303446"/>
-  <color name="frappe_mantle"    value="#292c3c"/>
-  <color name="frappe_crust"     value="#232634"/>
+  <color name="frappe_flamingo" value="#eebebe"/>
+  <color name="frappe_pink" value="#f4b8e4"/>
+  <color name="frappe_mauve" value="#ca9ee6"/>
+  <color name="frappe_red" value="#e78284"/>
+  <color name="frappe_maroon" value="#ea999c"/>
+  <color name="frappe_peach" value="#ef9f76"/>
+  <color name="frappe_yellow" value="#e5c890"/>
+  <color name="frappe_green" value="#a6d189"/>
+  <color name="frappe_teal" value="#81c8be"/>
+  <color name="frappe_sky" value="#99d1db"/>
+  <color name="frappe_sapphire" value="#85c1dc"/>
+  <color name="frappe_blue" value="#8caaee"/>
+  <color name="frappe_lavender" value="#babbf1"/>
+  <color name="frappe_text" value="#c6d0f5"/>
+  <color name="frappe_subtext1" value="#b5bfe2"/>
+  <color name="frappe_subtext0" value="#a5adce"/>
+  <color name="frappe_overlay2" value="#949cbb"/>
+  <color name="frappe_overlay1" value="#838ba7"/>
+  <color name="frappe_overlay0" value="#737994"/>
+  <color name="frappe_surface2" value="#626880"/>
+  <color name="frappe_surface1" value="#51576d"/>
+  <color name="frappe_surface0" value="#414559"/>
+  <color name="frappe_base" value="#303446"/>
+  <color name="frappe_mantle" value="#292c3c"/>
+  <color name="frappe_crust" value="#232634"/>
 
   <!-- Global Settings -->
   <style name="text"                        foreground="frappe_text" background = "frappe_base"/>
