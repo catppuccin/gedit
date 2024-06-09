@@ -12,24 +12,15 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/gedit/master/assets/res.png"/>
+	<img src="assets/res.png"/>
 </p>
 
 ## Usage
 
-1. Clone this repository locally: ```git clone https://github.com/catppuccin/gedit.git```
-2. cd into the cloned directory ``cd gedit``
-3. Run ``install.sh``
-4. Open Gedit's preferences menu and navigate to the **Fonts and Colors** menu. 
-5. Choose the flavor of your choice.
-6. Enjoy!
-
-### Alternative installation
-1. Clone this repository locally: ```git clone https://github.com/catppuccin/gedit.git```
+1. Copy your preferred flavor(s) from [`themes/`](./themes/) to `.local/share/libgedit-gtksourceview-300/styles` (or `~/.local/share/gedit/styles` for versions earlier than Gedit 47).
 2. Open Gedit's preferences menu and navigate to the **Fonts and Colors** menu.
-3. Hit the '+' button.
-4. Choose the flavor(s) of your choice.
-5. Enjoy!
+3. Choose the flavor of your choice.
+4. Enjoy!
 
 ## 💝 Thanks to
 
