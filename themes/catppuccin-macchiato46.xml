@@ -51,7 +51,7 @@ Catppuccin Gedit theme based on Oblivion theme and Cappuccin for Visual Studio C
   <style name="bracket-mismatch"            foreground="macchiato_text" background="macchiato_peach"/>
 
   <!-- Right Margin -->
-  <style name="right-margin"                foreground="macchiato_text" background="crust"/>
+  <style name="right-margin"                foreground="macchiato_text" background="macchiato_crust"/>
 
   <!-- Search Matching -->
   <style name="search-match"                foreground="macchiato_text" background="macchiato_blue"/>
