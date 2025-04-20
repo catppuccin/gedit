@@ -17,14 +17,15 @@
 
 ## Usage
 
-1. Clone this repository locally: ```git clone https://github.com/catppuccin/gedit.git```
+1. Clone this repository locally: ```git clone https://github.com/catppuccin/gedit.git``` 
 2. cd into the cloned directory ``cd gedit``
-3. Run ``install.sh``
-4. Open Gedit's preferences menu and navigate to the **Fonts and Colors** menu. 
-5. Choose the flavor of your choice.
-6. Enjoy!
+3. If using Gedit 46 or older, use the gedit46 git tag ``git checkout tags/gedit46``
+4. Run ``install.sh``
+5. Open Gedit's preferences menu and navigate to the **Fonts and Colors** menu. 
+6. Choose the flavor of your choice.
+7. Enjoy!
 
-### Alternative installation
+### Alternative installation (does not work in Gnome 47+)
 1. Clone this repository locally: ```git clone https://github.com/catppuccin/gedit.git```
 2. Open Gedit's preferences menu and navigate to the **Fonts and Colors** menu.
 3. Hit the '+' button.
