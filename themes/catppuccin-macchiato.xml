@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme id="catppuccin_macchiato" _name="Catppuccin Macchiato" kind="dark">
-  <_description>Soothing pastel theme for Gedit</_description>
+  <description>Soothing pastel theme for Gedit</description>
 
   <!-- Catppuccin Palette -->
   <color name="macchiato_rosewater" value="#f4dbd6"/>

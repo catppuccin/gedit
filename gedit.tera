@@ -7,7 +7,7 @@ whiskers:
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme id="catppuccin_{{ flavor.identifier }}" _name="Catppuccin {{ flavor.name }}" kind="{{ if(cond=flavor.dark, t="dark", f="light") }}">
-  <_description>Soothing pastel theme for Gedit</_description>
+  <description>Soothing pastel theme for Gedit</description>
 
   <!-- Catppuccin Palette -->
 {%- for identifier, color in flavor.colors %}
