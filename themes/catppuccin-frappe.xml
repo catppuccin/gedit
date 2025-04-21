@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="catppuccin-frappe" name="Catppuccin Frappe" kind="light">
-  <description>Light Soothing pastel theme for Gedit</description>
+<style-scheme id="catppuccin-frappe" name="Catppuccin Frappe" kind="dark">
+  <description>Soothing pastel theme for Gedit</description>
 
   <!-- Catppuccin Palette -->
   <color name="frappe_rosewater" value="#f2d5cf"/>
