@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="catppuccin_mocha" _name="Catppuccin Mocha" kind="dark">
+<style-scheme id="catppuccin-mocha" name="Catppuccin Mocha" kind="dark">
   <description>Soothing pastel theme for Gedit</description>
 
   <!-- Catppuccin Palette -->
