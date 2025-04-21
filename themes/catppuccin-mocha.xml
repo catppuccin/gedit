@@ -2,7 +2,7 @@
 <style-scheme id="catppuccin-mocha" name="Catppuccin Mocha" kind="dark">
   <description>Soothing pastel theme for Gedit</description>
 
-  <!-- Catppuccin Palette -->
+  <!-- Tango Palette -->
   <color name="mocha_rosewater" value="#f5e0dc"/>
   <color name="mocha_flamingo" value="#f2cdcd"/>
   <color name="mocha_pink" value="#f5c2e7"/>
