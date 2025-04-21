@@ -1,18 +1,12 @@
 ---
 whiskers:
-  version: "2.3.0"
+  version: "^2.3.0"
   matrix:
    - flavor
   filename: "themes/catppuccin-{{ flavor.identifier }}.xml"
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-Catppuccin Gedit theme based on Oblivion theme and Cappuccin for Visual Studio Code.
--->
-
-<style-scheme id="catppuccin_{{ flavor.identifier }}" _name="Catppuccin {{ flavor.name }}" version="1.0">
-
-  <author>sacerdos</author>
+<style-scheme id="catppuccin_{{ flavor.identifier }}" _name="Catppuccin {{ flavor.name }}" kind="{{ if(cond=flavor.dark, t="dark", f="light") }}">
   <_description>Soothing pastel theme for Gedit</_description>
 
   <!-- Catppuccin Palette -->
