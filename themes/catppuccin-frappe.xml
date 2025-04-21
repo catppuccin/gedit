@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-Catppuccin Gedit theme based on Oblivion theme and Cappuccin for Visual Studio Code.
--->
-
-<style-scheme id="catppuccin_frappe" _name="Catppuccin frappe" version="1.0">
-
-  <author>sacerdos</author>
-  <_description>Soothing pastel theme for Gedit</_description>
+<style-scheme id="catppuccin-frappe" name="Catppuccin Frappe" kind="dark">
+  <description>Soothing pastel theme for Gedit</description>
 
   <!-- Catppuccin Palette -->
   <color name="frappe_rosewater" value="#f2d5cf"/>

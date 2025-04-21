@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-Catppuccin Gedit theme based on Oblivion theme and Cappuccin for Visual Studio Code.
--->
+<style-scheme id="catppuccin-mocha" name="Catppuccin Mocha" kind="dark">
+  <description>Soothing pastel theme for Gedit</description>
 
-<style-scheme id="catppuccin_mocha" _name="Catppuccin Mocha" version="1.0">
-
-  <author>sacerdos</author>
-  <_description>Soothing pastel theme for Gedit</_description>
 
   <!-- Tango Palette -->
   <color name="mocha_rosewater" value="#f5e0dc"/>

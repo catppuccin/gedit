@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-Catppuccin Gedit theme based on Oblivion theme and Cappuccin for Visual Studio Code.
--->
-
-<style-scheme id="catppuccin_macchiato" _name="Catppuccin macchiato" version="1.0">
-
-  <author>sacerdos</author>
-  <_description>Soothing pastel theme for Gedit</_description>
+<style-scheme id="catppuccin-macchiato" name="Catppuccin Macchiato" kind="dark">
+  <description>Soothing pastel theme for Gedit</description>
 
   <!-- Catppuccin Palette -->
 <color name="macchiato_rosewater" value="#f4dbd6"/>
@@ -51,7 +45,7 @@ Catppuccin Gedit theme based on Oblivion theme and Cappuccin for Visual Studio C
   <style name="bracket-mismatch"            foreground="macchiato_text" background="macchiato_peach"/>
 
   <!-- Right Margin -->
-  <style name="right-margin"                foreground="macchiato_text" background="crust"/>
+  <style name="right-margin"                foreground="macchiato_text" background="macchiato_crust"/>
 
   <!-- Search Matching -->
   <style name="search-match"                foreground="macchiato_text" background="macchiato_blue"/>
