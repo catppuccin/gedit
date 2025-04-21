@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme id="catppuccin-latte" name="Catppuccin Latte" kind="light">
-  <description>Light Soothing pastel theme for Gedit</description>
+  <description>Soothing pastel theme for Gedit</description>
 
   <!-- Catppuccin Palette -->
   <color name="latte_rosewater" value="#dc8a78"/>
