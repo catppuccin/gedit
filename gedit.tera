@@ -6,7 +6,7 @@ whiskers:
   filename: "themes/catppuccin-{{ flavor.identifier }}.xml"
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="catppuccin-{{ flavor.identifier }}" name="Catppuccin {{ flavor.name }}" kind="{{ if(cond=flavor.dark, t="dark", f="light") }}">
+<style-scheme id="catppuccin-{{ flavor.identifier }}" name="Catppuccin {{ flavor.name }}" kind="{{ if(cond=flavor.dark, t="dark", f="light") }}" version="1.0">
   <description>Soothing pastel theme for Gedit</description>
 
   <!-- Catppuccin Palette -->
