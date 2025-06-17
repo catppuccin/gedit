@@ -18,7 +18,7 @@
 ## Usage
 
 1. Copy your preferred flavor(s) from [`themes/`](./themes/) to
-   `.local/share/libgedit-gtksourceview-300/styles` (or
+   `~/.local/share/gtksourceview-5/styles/` (or
    `~/.local/share/gedit/styles` for versions earlier than Gedit 47).
 2. Open Gedit's preferences menu and navigate to the **Fonts and Colors** menu.
 3. Choose the flavor of your choice.
